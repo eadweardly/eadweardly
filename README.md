@@ -1,7 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=250&section=header&text=Eduardo%20Charles%20Florencio%20Guevarra&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<p align="center">
+  <!-- Dynamic Auto-Typing Name with Cars and Basketball Theme -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=🏎️+Eduardo+Charles+Florencio+Guevarra+🏀;DRIVING+INTO+THE+CODE+💨;SLAM+DUNKING+THE+LOGIC+🔥"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Aspiring+AI+%26+Data+Driven+Developer;Building+Solutions+With+Purpose"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Aspiring+AI+%26+Data+Driven+Developer;Building+Solutions+With+Purpose"/>
 </p>
 
 <p align="center">
