@@ -43,7 +43,11 @@ My goal is to grow into someone who can harness the power of data and intelligen
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,git,github,vscode,figma,canva" />
+  <!-- Clean premium layout matched directly with image_33e9a1.png -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,python,git,github,vscode,figma,canva&theme=light&perline=12" />
+  <br/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-787CB5?style=for-the-badge&logo=phpMyAdmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=XAMPP&logoColor=white" />
 </p>
 
 ---
