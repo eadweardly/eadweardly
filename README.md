@@ -88,4 +88,3 @@ while (alive) {
     buildWithPurpose();
 }
 
-yan latest code ko
