@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=280&section=header&text=Eduardo%20Charles%20Florencio%20Guevarra&fontSize=34&fontColor=00BFFF&animation=twinkle&fontAlignY=45&desc=🏀%20🔥%20🏎️%20💨&descSize=20&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=glitch&color=auto&height=250&section=header&text=Eduardo%20Charles%20Florencio%20Guevarra&fontSize=35&fontColor=00BFFF&fontAlignY=40" width="100%"/>
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29tcXZpMXN5dDR4YTg4Ym95bnd0Y3Z0bTM0b3FmNWhndm95N3ZsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lp71UqhFYgtWOwiL6C/giphy.gif" width="140"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1b3R5bXBlbXoxcmN3bWhtYm95amN4bWc4bTV6ZDgxM3p0aXU4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7at0q0L7V6p6K3te/giphy.gif" width="180"/>
+  </p>
 </div>
 
 <p align="center">
