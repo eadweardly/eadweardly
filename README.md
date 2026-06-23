@@ -1,14 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glitch&color=auto&height=250&section=header&text=Eduardo%20Charles%20Florencio%20Guevarra&fontSize=35&fontColor=00BFFF&fontAlignY=40" width="100%"/>
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29tcXZpMXN5dDR4YTg4Ym95bnd0Y3Z0bTM0b3FmNWhndm95N3ZsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lp71UqhFYgtWOwiL6C/giphy.gif" width="140"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1b3R5bXBlbXoxcmN3bWhtYm95amN4bWc4bTV6ZDgxM3p0aXU4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7at0q0L7V6p6K3te/giphy.gif" width="180"/>
-  </p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=250&section=header&text=Eduardo%20Charles%20Florencio%20Guevarra&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Aspiring+AI+%26+Data+Driven+Developer;Building+Solutions+With+Purpose"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Aspiring+AI+%26+Data+Driven+Developer;Building+Solutions+With+Purpose;🏎️+💨+🏀+🔥+SHIFTING+GEARS"/>
 </p>
 
 <p align="center">
