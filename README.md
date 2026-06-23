@@ -17,12 +17,6 @@ Turning curiosity into knowledge, ideas into systems, and technology into meanin
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eadweardly&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 Hi! I'm **Eduardo Charles Florencio Guevarra**, an Information Technology student passionate about building innovative solutions through technology.
@@ -81,14 +75,6 @@ My goal is to grow into someone who can harness the power of data and intelligen
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eadweardly&bg_color=0D1117&color=00BFFF&line=87CEEB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eadweardly/eadweardly/output/github-contribution-grid-snake.svg" alt="Github Snake Navigation"/>
 </p>
 
 ---
