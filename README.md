@@ -1,12 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=250&section=header&text=Eduardo%20Charles%20Florencio%20Guevarra&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<div align="center">
+  <!-- Stable Auto-Typing Name with Cars and Basketball Punchlines -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=🏎️+Eduardo+Charles+Florencio+Guevarra+🏀;DRIVING+INTO+THE+CODE+💨;SLAM+DUNKING+THE+LOGIC+🔥"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Aspiring+AI+%26+Data+Driven+Developer;Building+Solutions+With+Purpose"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eadweardly&label=Profile%20Views&color=00BFFF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/eadweardly?label=Followers&style=for-the-badge&color=87CEEB"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Aspiring+AI+%26+Data+Driven+Developer;Building+Solutions+With+Purpose"/>
 </p>
 
 <h2 align="center">👋 Welcome to My Digital Space</h2>
@@ -24,6 +22,7 @@ Hi! I'm **Eduardo Charles Florencio Guevarra**, an Information Technology studen
 I am deeply interested in:
 - 🤖 Artificial Intelligence
 - 📊 Data Analytics
+- 🧬 Data Science
 - 💻 Web Development
 - 🧠 Intelligent Systems
 - 🚀 Software Development
@@ -47,26 +46,26 @@ My goal is to grow into someone who can harness the power of data and intelligen
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,git,github,vscode,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,git,github,vscode,figma,canva" />
 </p>
 
 ---
 
 ## 🚀 Things I Build
 
-* ✨ Web Applications  
-* ✨ Database Management Systems  
-* ✨ Digital Solutions  
-* ✨ AI-Based Projects  
-* ✨ Technology That Creates Impact  
+* ✨ Web Applications  
+* ✨ Database Management Systems  
+* ✨ Digital Solutions  
+* ✨ AI-Based Projects  
+* ✨ Technology That Creates Impact  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eadweardly&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eadweardly&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eadweardly&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eadweardly&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -74,7 +73,7 @@ My goal is to grow into someone who can harness the power of data and intelligen
 ## 🌊 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eadweardly&bg_color=0D1117&color=00BFFF&line=87CEEB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eadweardly&bg_color=0D1117&color=00BFFF&line=87CEEB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -83,8 +82,7 @@ My goal is to grow into someone who can harness the power of data and intelligen
 
 ```markdown
 while (alive) {
-    keepLearning();
-    embraceChallenges();
-    buildWithPurpose();
+    keepLearning();
+    embraceChallenges();
+    buildWithPurpose();
 }
-
