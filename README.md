@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=250&section=header&text=Eduardo%20Charles%20Florencio%20Guevarra&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=280&section=header&text=Eduardo%20Charles%20Florencio%20Guevarra&fontSize=34&fontColor=00BFFF&animation=twinkle&fontAlignY=45&desc=🏀%20🔥%20🏎️%20💨&descSize=20&descAlignY=65" width="100%"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Aspiring+AI+%26+Data+Driven+Developer;Building+Solutions+With+Purpose"/>
