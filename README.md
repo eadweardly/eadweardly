@@ -1,7 +1,4 @@
-<div align="center">
-  <!-- Stable Auto-Typing Name with Cars and Basketball Punchlines -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=🏎️+Eduardo+Charles+Florencio+Guevarra+🏀;DRIVING+INTO+THE+CODE+💨;SLAM+DUNKING+THE+LOGIC+🔥"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=250&section=header&text=Eduardo%20Charles%20Florencio%20Guevarra&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Aspiring+AI+%26+Data+Driven+Developer;Building+Solutions+With+Purpose"/>
@@ -21,8 +18,8 @@ Hi! I'm **Eduardo Charles Florencio Guevarra**, an Information Technology studen
 
 I am deeply interested in:
 - 🤖 Artificial Intelligence
-- 📊 Data Analytics
-- 🧬 Data Science
+- 📊 Data Science
+- 📈 Data Analytics
 - 💻 Web Development
 - 🧠 Intelligent Systems
 - 🚀 Software Development
