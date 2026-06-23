@@ -1,7 +1,7 @@
-<h1 align="center">🏎️ Eduardo Charles Florencio Guevarra 🏀</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=250&section=header&text=Eduardo%20Charles%20Florencio%20Guevarra&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Aspiring+AI+%26+Data+Driven+Developer;Building+Solutions+With+Purpose;🏀+🔥+🏎️+💨+SHIFTING+GEARS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Aspiring+AI+%26+Data+Driven+Developer;Building+Solutions+With+Purpose"/>
 </p>
 
 <p align="center">
