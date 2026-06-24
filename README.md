@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=280&section=header&text=Eduardo%20Charles%20Florencio%20Guevarra&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20%7C%20Aspiring%20AI%20%26%20Data%20Developer&descSize=16&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=280&section=header&text=Eduardo%20Charles%20Guevarra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Information+Technology+Student+%F0%9F%8E%93;Aspiring+AI+%26+Data-Driven+Developer+%F0%9F%A4%96;Building+Solutions+With+Purpose+%F0%9F%9A%80;Turning+Curiosity+Into+Impact+%F0%9F%92%A1"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Aspiring+AI+%26+Data-Driven+Developer;Building+Solutions+With+Purpose;Turning+Curiosity+Into+Impact"/>
 </p>
 
 <h2 align="center">👋 Welcome to My Digital Space</h2>
