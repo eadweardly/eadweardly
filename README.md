@@ -88,11 +88,7 @@ My goal is to grow into someone who can harness the power of **data** and **inte
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eadweardly&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</p>
 
 ---
 
