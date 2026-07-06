@@ -70,12 +70,7 @@ My goal is to grow into someone who can harness the power of **data** and **inte
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eadweardly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=eadweardly&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eadweardly&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=eadweardly&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
