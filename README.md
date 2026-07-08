@@ -95,7 +95,7 @@ const calyx = {
   role: "IT Student & Aspiring Developer",
   passions: ["AI", "Data Science", "Web Dev"],
   currentlyLearning: ["Machine Learning", "Data Analytics"],
-  lifePhilosophy: "Build with purpose. Learn with grace.",
+  lifePhilosophy: "Build with purpose. Love with Grace.",
 
   code: function() {
     while (alive) {
