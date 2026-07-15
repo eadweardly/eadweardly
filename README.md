@@ -93,7 +93,7 @@ My goal is to grow into someone who can harness the power of **data** and **inte
 const calyx = {
   name: "Eduardo Charles Florencio Guevarra",
   role: "IT Student & Aspiring Developer",
-  passions: ["AI", "Data Science", "Web Dev"],
+  passions: ["AI", "Data Science", "Web Dev" , "Database Systems"],
   currentlyLearning: ["Machine Learning", "Data Analytics"],
   lifePhilosophy: "Build with purpose. Love with Grace.",
 
